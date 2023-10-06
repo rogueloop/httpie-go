@@ -11,6 +11,5 @@ require (
 	github.com/onsi/gomega v1.9.0 // indirect
 	github.com/pborman/getopt v0.0.0-20190409184431-ee0cd42419d3
 	github.com/pkg/errors v0.9.1
-	github.com/vbauerster/mpb/v5 v5.0.2
 	golang.org/x/crypto v0.0.0-20200302210943-78000ba7a073
 )
